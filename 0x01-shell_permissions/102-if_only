@@ -1,0 +1,2 @@
+#!/bin/bash
+sudo chown --older=guillaume betty hello
